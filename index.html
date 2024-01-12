@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="search">
+            <i class="fa-solid fa-location-dot location"></i>
+            <input type="text" placeholder="search" id="seachInput">
+            <button type="submit" id="searchBtn"><i class="fas fa-search"></i></button>
+        </div>
+        <div class="content" id="current-weather-items">
+            <img src = "./img/clear.png" alt="weather Image" srcset="" class="weather-img">
+            <p class="city" id="locationName"></p>
+            <p class="city" id="city">
+                <span id="date"></span>,
+                <span id="month"></span>
+                <span id="year"></span>
+            </p>
+            <div class="weather">
+                <div class="temprature">
+                    <img src="./img/icons8-temperature-96.png" alt="" srcset="">
+                    <p id="locationTemprature"></p>
+                </div>
+                <div class="humidity">
+                    <img src="./img/icons8-water-52.png" width="30px">
+                    <p id="locationHumidity"></p>
+                </div>
+            </div>
+
+            <div class="weather">
+                <div class="wind">
+                    <img src="./img/icons8-wind-64.png" alt="" srcset="">
+                    <p id="locationWind"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+
+</html>
