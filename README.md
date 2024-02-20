@@ -36,5 +36,4 @@ For any assistance or suggestions, feel free to contact me:
 
 ### Jaspreet Singh
 
-Email: jaspreetmehra185@gmail.com <br>
 LinkedIn: [Jaspreet Singh](https://www.linkedin.com/in/jaspreet-s-2227a6226/)
