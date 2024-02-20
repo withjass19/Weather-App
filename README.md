@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App Preview](https://raw.githubusercontent.com/withjass19/Weather-App/main/weather-app-preview.png)
+![Weather App Preview](UI.png)
 
 This is a simple and intuitive weather web application built with HTML, CSS, and JavaScript. The app utilizes the OpenWeatherMap API to provide real-time weather information from around the world.
 
